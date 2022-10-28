@@ -8,6 +8,9 @@ This plugin adds snippet support to the code editor.
 
 3. right click the folder and press `Save as local plugin`.
 
+# How To Add Custom Snippets
+You can add custom snippets to the `SnippetsTable.lua` ModuleScript. In the future I am planning on making a gui to make it easier to add new snippets.
+
 - - -
 A video of it in action:
 
