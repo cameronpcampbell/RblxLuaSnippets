@@ -9,6 +9,7 @@ This plugin adds snippet support to the code editor.
 3. right click the folder and press `Save as local plugin`.
 
 - - -
-A video of it in action: https://user-images.githubusercontent.com/66361859/198686798-8d60af39-a0ca-40dc-973e-32121e61e3fa.mov
+A video of it in action:
+https://user-images.githubusercontent.com/66361859/198686798-8d60af39-a0ca-40dc-973e-32121e61e3fa.mov
 
 
