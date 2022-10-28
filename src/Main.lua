@@ -1,3 +1,4 @@
+-- server script
 local ScriptEditorService = game:GetService("ScriptEditorService")
 local SnippetsTable = require(script.Parent.SnippetsTable)
 
